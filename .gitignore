@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime / logs
+logs/
+mlruns/
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Local archives
+*.zip

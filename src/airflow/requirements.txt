@@ -1,0 +1,17 @@
+xgboost
+mlflow
+kafka-python-ng
+python-dotenv
+pyyaml
+catboost
+pyspark
+lightgbm
+imblearn
+pandas
+scikit-learn
+boto3
+tqdm
+tqdm-joblib
+apache-airflow-providers-fab
+apache-airflow-providers-celery
+apache-airflow-providers-postgres

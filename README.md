@@ -1,1 +1,1 @@
-# Fraud_Detection_Mlops
+# fraud-detection-mlops
